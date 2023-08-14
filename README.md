@@ -2,8 +2,6 @@
 
 ![img](./docs/images/screenshot.png ) <!-- alt = img -thumbnail -->
 
-[[中文简体](./docs/README-cn.md)]
-
 > ChatGPT and Telegram bot, based on Node.js.
 
 - [How to use](#how-to-use)
